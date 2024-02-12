@@ -1,0 +1,108 @@
+h1{
+    text-align:center ;
+    display: block;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: 3em  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: underline;
+    text-decoration-color: black; 
+    text-underline-offset: 7px;    
+}
+h2{
+text-align: center;
+display: block;
+margin: auto;
+font: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: 6ch;
+font-size: large;
+
+}
+h3{
+  text-align: center;
+  display: block;
+  font: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: 6ch;
+  margin: auto;
+  font-size: larger;
+  }
+h4{
+    text-align: center;
+    display: block;
+    margin: auto;
+    font: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: 3ch;
+   }
+h5{
+      text-align: center;
+      display: block;
+      margin: auto;
+      font: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: 3ch;
+ }
+ h6{
+  text-align: center;
+  display: block;
+  margin: auto;
+  font-size: larger;
+  font: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: 3ch;
+  }
+h7{
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: larger;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3ch;    }
+p1{
+text-align:center;
+display: block;
+margin: auto;
+text-decoration-line: underline;
+text-decoration-color: black; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: 2em  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-underline-offset: 7px;
+}
+p2{
+text-align:center ;
+display: block;
+margin: auto;
+text-decoration-line: underline;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: 2em  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration-color: black; 
+text-underline-offset: 7px;
+}
+p3{
+text-align: center;
+display: block;
+margin: auto;
+text-decoration-line: underline;
+text-decoration-color: black; 
+text-underline-offset: 7px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: 2em  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p4{
+text-align: center;
+display: block;
+margin: auto;
+text-decoration-line: underline;
+text-decoration-color: black; 
+text-underline-offset: 7px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: 2em  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font:2em 'Times New Roman', Times, serif;
+}
